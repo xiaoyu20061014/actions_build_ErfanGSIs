@@ -14,9 +14,9 @@ on:
     types: [started]
     
 env:
-  ROM_URL: http://bigota.d.miui.com/20.4.27/miui_MIMIX3_20.4.27_8f7879221b_10.0.zip
-  ROM_NAME: MIUI
-  BUILD_TYPE: ab
+  ROM_URL: https://firmware.meizu.com/Firmware/Flyme/m6_note/8.0.5.0/cn/20210616122913/2e8a0610/update.zip
+  ROM_NAME: Flyme
+  BUILD_TYPE: Aonly
   TZ: Asia/Shanghai
 
 jobs:
